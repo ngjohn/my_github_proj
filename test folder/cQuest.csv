@@ -3,4 +3,4 @@ quest_id,questgroup_id,gain_exp,gain_gold,name,stamina_cost,quest_type,wave_coun
 2,1,100,800,序章 2,3,Q_NORMAL,3,W1~R#W2~R#W3~R,0,W~R,10,0,0,0
 5,33,200,2000,火之章 2,3,Q_NORMAL,3,W1~R#W2~R#W3~R,2,W~R,10,0,0,0
 9,10001,1000,5000,回廊 10,1,Q_SPECIAL,10,,0,W~R,10,0,1,22
-
+10,100123
