@@ -1,0 +1,6 @@
+# my_github_proj
+a testing git project for unity
+
+
+- a testing reawdme....
+- add more later...
